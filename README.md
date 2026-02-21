@@ -15,5 +15,10 @@ Für vollständige Anfragen liest das System entscheidungsrelevante Fakten (Hard
 4. Sachbearbeiter-Cockpit:
 Die Mitarbeitenden erhalten nicht mehr den unstrukturierten Fließtext, sondern ein aufgeräumtes Daten-Briefing. Dies reduziert die initiale Prüfzeit pro Vorgang drastisch und erhöht die Prozessqualität.
 
+## Flowchart
+
+<img src="https://github.com/robomustib/municipal-nlp-gateway/blob/main/img/flowchart_municipal.svg" alt="Flowchart" width="50%"/>
+
 ## Beispiel
+
 <img width="1920" height="1080" alt="grafik" src="https://github.com/user-attachments/assets/acf61ab0-94a2-4d11-8932-66a52c7225bf" />
