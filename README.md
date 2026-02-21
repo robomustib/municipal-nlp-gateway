@@ -22,3 +22,8 @@ Die Mitarbeitenden erhalten nicht mehr den unstrukturierten Fließtext, sondern 
 ## Beispiel
 
 <img width="1920" height="1080" alt="grafik" src="https://github.com/user-attachments/assets/acf61ab0-94a2-4d11-8932-66a52c7225bf" />
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** License.
+**Note:** You are free to share and adapt the material for non-commercial purposes, provided you give appropriate credit. Commercial use is not permitted without prior consent. For details, see the [LICENSE](LICENSE) file.
+
+Copyright (c) 2026 Mustafa Bilgin
